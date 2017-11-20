@@ -12,6 +12,6 @@ The user is then prompted to play again, if they so choose.
 
 
 ## Usage
-Compile the program with a `make` command.
+Compile the program with either `make` or `make tic-tac-toe`
 Run the program with `./tic-tac-toe`
 
